@@ -1,0 +1,35 @@
+.signup-container {
+  max-width: 400px;
+  margin: 60px auto;
+  background: white;
+  padding: 32px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.signup-container h2 {
+  text-align: center;
+  margin-bottom: 24px;
+  color: #333;
+}
+
+.submit {
+  width: 100%;
+  padding: 10px 0;
+  background: #7b61ff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background: #6b54e2;
+}
+
+.login-link {
+  margin-top: 16px;
+  text-align: center;
+  font-size: 14px;
+}
